@@ -1,0 +1,12 @@
+{
+    "": {
+        "data": "hwQQABAAAAAAEOEAAAAAAADR3Q4AAAAAENEd7g8AAAAQ3RHdHf8AABDd0f3d1g8AAN7d3d3W/QAA4N3d8dbxAADg3d3x1v0AAN7d3d3W/wAQ3dH93db9ABDdEd1t0f8AENEd7v8f/wAA0d0O8N0PAAAQ4QDf/QAAAAABAP8PAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "BoB"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
